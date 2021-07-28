@@ -1,0 +1,13 @@
+[[source]]
+
+
+[packages]
+
+django = "*"
+gunicorn = "*"
+django-heroku = "*"
+
+
+[requires]
+
+python_version = "3.6.3
